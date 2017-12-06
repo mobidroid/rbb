@@ -166,6 +166,7 @@ return [
         Collective\Html\HtmlServiceProvider::class,
         Unisharp\Ckeditor\ServiceProvider::class,
         'MathiasGrimm\LaravelDotEnvGen\DotEnvGenServiceProvider',
+        Collective\Html\HtmlServiceProvider::class,
         
 
         /*
