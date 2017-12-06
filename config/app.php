@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Laravel'),
+    'name' => env('APP_NAME', 'RadioBlahBlah'),
 
     /*
     |--------------------------------------------------------------------------
@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'http://phplaravel-132621-382147.cloudwaysapps.com/'),
 
     /*
     |--------------------------------------------------------------------------
